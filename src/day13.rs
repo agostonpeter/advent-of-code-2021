@@ -1,7 +1,7 @@
 use crate::file;
 
 pub fn solve() {
-    println!("EIGHTH DAY");
+    println!("THIRTEENTH DAY");
     let mut input_strings: Vec<String>;
     let mut inputs: Vec<(usize, usize)> = vec![];
     let mut max_x: usize = 0;
